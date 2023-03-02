@@ -1,5 +1,4 @@
-![readme](https://user-images.githubusercontent.com/6129764/202407990-496aabdd-5b06-450e-9a8d-2388bde1389b.jpg)
-
+안녕하세요 🙂
 
 <!--
 **padosum/padosum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
